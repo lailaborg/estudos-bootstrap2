@@ -1,0 +1,75 @@
+.titulo-secao{
+    color: rgb(102, 7, 126);
+    font-size: 32px;
+    margin-bottom: 34px;
+    font-family: 'IBM Plex Mono';
+}
+
+
+section{
+    padding: 85px 25px;
+}
+
+/*navbar*/
+
+.menu {
+    background: rgb(168, 228, 125);
+}
+
+.item-menu {
+    font-size: 20px;
+    padding-right: 19px;
+    font-family: 'IBM Plex Mono';
+    font-weight: 700;
+}
+
+.pesquisa placeholder{
+    font-size: 26px;
+}
+
+#nzinga{
+    color:rgb(102, 7, 126);
+    font-size: 33px;
+    font-family: 'Bodoni Moda', serif;
+}
+
+/*carousel*/
+
+.frase-carousel{
+    font-size: 42px;
+    font-family: 'Dancing Script', serif;
+}
+
+/*quem somos*/
+#quem-somos{
+    text-align: center;
+}
+
+/*nosso time*/
+
+.time-img{
+    width: 100%;
+    border-radius: 100%;
+    padding: 18px;
+}
+
+#nosso-time h5{
+    font-size: 18px;
+    color: rgb(102, 7, 126);
+}
+
+/*produtos*/
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+/* rodapé*/
+
+footer{
+    background: rgb(168, 228, 125);
+    text-align: center;
+    padding: 18px;
+    font-size: 12px;
+    
+}
